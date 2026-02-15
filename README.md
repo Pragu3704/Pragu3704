@@ -1,4 +1,4 @@
-## About me 
+# About me 
 
 Hi, I'm Pragathi Prasad, and I am currently pursuing my B.Tech in biotechnology at PES University. I'm a keen computational biology enthusiast and love working with problems in bioinformatics, systems biology and synthetic biology. I aspire to develop effective solutions in the field of precision medicine for cancer therapy. I'm open to connecting for exciting collaborations and projects!!!
 
@@ -6,6 +6,13 @@ LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 
 <!-- Overall stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragu3704)
+
+<!--- Skilla --->
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 
 
