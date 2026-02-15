@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 
 
 <!--- Skilla --->
-## Skills
+### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
