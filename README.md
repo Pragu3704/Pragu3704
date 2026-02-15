@@ -13,9 +13,6 @@ LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1F77B4?style=for-the-badge&logo=r&logoColor=white)
 
-### Contributions
-
-![snake](https://raw.githubusercontent.com/Pragu3704/Pragu3704/output/github-contribution-grid-snake.svg)
 
 
 
