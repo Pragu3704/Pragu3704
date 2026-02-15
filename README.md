@@ -5,7 +5,8 @@ Hi, I'm Pragathi Prasad, and I am currently pursuing my B.Tech in biotechnology 
 LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 
 <!-- Overall stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pragu3704&show_icons=true&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragu3704)
+
 
 
 
