@@ -4,8 +4,6 @@ Hi, I'm Pragathi Prasad, and I am currently pursuing my B.Tech in biotechnology 
 
 LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 
-<!-- Overall stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pragu3704)
 
 <!--- Skilla --->
 ## Skills
@@ -13,6 +11,7 @@ LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Python](https://forthebadge.com/images/badges/made-with-python.svg)
 
 
 
