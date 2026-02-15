@@ -11,9 +11,9 @@ LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-2E8B57?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1F77B4?style=for-the-badge&logo=r&logoColor=white)
+![Snakemake](https://img.shields.io/badge/Snakemake-4B8BBE?style=for-the-badge)
+
 
 
 
