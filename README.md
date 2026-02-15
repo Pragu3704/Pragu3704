@@ -22,7 +22,6 @@ LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 
 
 
-
 <!--
 **Pragu3704/Pragu3704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
