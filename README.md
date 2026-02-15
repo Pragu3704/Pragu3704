@@ -12,7 +12,6 @@ LinkedIn: https://www.linkedin.com/in/pragathi-p374/
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-1F77B4?style=for-the-badge&logo=r&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
 
